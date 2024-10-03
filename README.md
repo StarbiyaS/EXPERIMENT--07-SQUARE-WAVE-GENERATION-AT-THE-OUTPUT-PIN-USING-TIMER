@@ -213,10 +213,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 2ms
+TOFF=2ms
+TOTAL TIME = 4ms
+FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
+
 ![pulse500](https://github.com/user-attachments/assets/ddf403fd-a635-46d1-a2ce-b64d72d81940)
 
 
@@ -225,10 +226,10 @@ FREQUENCY = 1/(TOTAL TIME)
 
 FOR PULSE AT 700
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 3ms
+TOFF=1ms
+TOTAL TIME = 4ms
+FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
 ![pulse 700](https://github.com/user-attachments/assets/f23bb46e-8f59-49e5-99a7-cf2c76b648ff)
 
@@ -236,10 +237,10 @@ FREQUENCY = 1/(TOTAL TIME)
 
 FOR PULSE AT 900
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 3.5ms
+TOFF=0.5ms
+TOTAL TIME = 4ms
+FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
 ![pulse 900](https://github.com/user-attachments/assets/b8942d5f-cd3f-4e9b-b955-95b6c296d8d8)
 
